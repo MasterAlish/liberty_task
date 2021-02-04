@@ -1,0 +1,4 @@
+timestamp,type,amount,from,to
+Sep 1 2019,remove,99.20,198,182
+Sep 2 2019,add,2000.10,188,198
+Sep 12 2019,add,122.10,170,198
